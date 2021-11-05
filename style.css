@@ -12,18 +12,7 @@
             
 }
 
-@media screen and (max-width:828px){
-     
-    #container{
-         display: flex;
-         flex-direction: column;
-         
-    }
-    #container>div{
-                     background-color: lightpink;
-    }
 
-}
 
 @media screen and (max-width:375px){
      
